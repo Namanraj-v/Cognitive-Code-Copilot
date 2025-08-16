@@ -1,0 +1,1 @@
+The Single Responsibility Principle states that a function should have only one reason to change. Code with high cyclomatic complexity often violates this principle. It mixes multiple responsibilities and decision paths, making it hard to test and maintain. To fix this, break the function down into smaller, more focused functions, each handling one specific task.

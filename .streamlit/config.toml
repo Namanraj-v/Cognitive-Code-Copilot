@@ -1,0 +1,17 @@
+# .streamlit/config.toml
+
+[theme]
+# The primary color for interactive elements
+primaryColor="#F472B6"
+
+# Background color for the main content area
+backgroundColor="#1E1B4B"
+
+# Background color for sidebar and most containers
+secondaryBackgroundColor="#312E81"
+
+# Text color
+textColor="#E0E7FF"
+
+# Font family
+font="sans serif" 
